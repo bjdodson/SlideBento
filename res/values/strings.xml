@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<!-- Application -->
+    <string name="app_name">SlideBento</string>
+
+	<!-- Description -->
+    <string name="description_logo">SlideBento</string>
+    <string name="description_home">Home</string>
+    <string name="description_add">Add</string>
+    <string name="description_picture">Picture</string>
+    <string name="description_camera">Camera</string>
+    <string name="description_gallery">Gallery</string>
+    <string name="description_info">Information</string>
+    <string name="description_edit">Edit</string>
+    <string name="description_preferences">Preferences</string>
+    
+    <!-- Warning -->
+    <string name="warning_launch">Please launch with Musubi!!!</string>
+    <string name="warning_start">Please launch new app from feed to start this presentation.</string>
+    <string name="warning_now_preparing">Now preparing slides, click again later.</string>
+    <string name="warning_noslides">No slides found.\nPress long to add slides.</string>
+    
+    <!-- Dialog -->
+    <string name="add_dialog_title">New Deck Title</string>
+    <string name="add_dialog_text">Please input deck title</string>
+    
+    <string name="edit_dialog_title">Edit Deck</string>
+    <string name="addslides_dialog_title">Add Slides</string>
+    <string name="delslides_dialog_title">Delete Slides</string>
+    <string name="deldeck_dialog_title">Delete Deck</string>
+    <string name="deldeck_dialog_text">Are you sure you want to delete this deck?</string>
+    <string name="preferences_dialog_title">Preferences</string>
+    
+    <string name="dialog_addslides">Add slides</string>
+    <string name="dialog_adddir">Add slides by choosing directory</string>
+    <string name="dialog_delslide">Delete slides</string>
+    <string name="dialog_deldeck">Delete deck</string>
+
+    <string name="market_dialog_title">SlideBento</string>
+    <string name="market_dialog_text">Musubi App is required to use SlideBento.\nDownload Musubi now?</string>
+    <string name="market_dialog_yes">Yes!</string>
+    <string name="market_dialog_no">No, thanks</string>
+    
+    <!-- Update Feed Message -->
+    <string name="feed_msg_added">\'<xliff:g id="item">%1$s</xliff:g>\' presentation is now playing.</string>
+    <string name="feed_msg_updated">\'<xliff:g id="item">%1$s</xliff:g>\' presentation: Now playing slide<xliff:g id="item">%2$s</xliff:g>.</string>
+
+
+    <!-- Toast Message -->
+    <string name="toast_updated">Updated!</string>
+    <string name="toast_start_editmode">Editmode is enabled.\nSelect deck to add / edit / delete slides.</string>
+    <string name="toast_end_editmode">Editmode is disabled.</string>
+    
+    <!-- Other Message -->
+    <string name="list_playing">[Playing] \s</string>
+    
+</resources>

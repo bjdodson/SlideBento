@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="lib/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="lib/SocialKit-0.1.7-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/cling-core-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/cling-support-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/teleal-common-1.0.13.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
